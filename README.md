@@ -28,3 +28,18 @@ This notebook (task1_python_basics.ipynb) includes basic Python practice:
   list method- append(), reverse(),remove(),pops(),sort(),reverse()in keyword for memebership.
   # Tuple data type
   how to create tuples using () differnce between list and tuple.
+
+  # Task 3:This notebook covers essential Python control flow tools used in decision-making and iteration.
+  - Intern Name: [Aniket Dhuke]  
+     Date: 6/5/2025
+  # Description
+   Each section is designed with clear examples and explanations to help learners understand the logic and usage of different flow-control statements.
+
+Section 1: Conditional Statements if Statement if-else Statement if-elif-else Statement
+
+Section 2: for Loop Iterating through lists, strings, and ranges
+
+Section 3: while Loop Looping based on condition Infinite loop handling
+
+Section 4: Control Statements break: Exit the loop early continue: Skip current iteration pass: Placeholder for future code
+
