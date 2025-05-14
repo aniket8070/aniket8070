@@ -42,6 +42,7 @@ Covers:
 ###  Task 3 – Python Control Flow Statements  
 Notebook: TASK_3.ipynb
 By:  Aniket Dhuke  
+
 Covers:
 - Conditional Statements: if, if-else, if-elif-else  
 - Loops:
@@ -56,7 +57,8 @@ Covers:
 
 ### Task 4 - Functions
 Notebook: TASK_4.ipynb  
-By:  Aniket Dhuke
+By: Aniket Dhuke
+
 ###  A. User-defined Functions
 1. Function to return squares of numbers in a list.
 2. Function to count vowels in a string.
