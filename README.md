@@ -41,6 +41,7 @@ Covers:
 
 ###  Task 3 – Python Control Flow Statements  
 Notebook: TASK_3.ipynb
+
 By:  Aniket Dhuke  
 
 Covers:
@@ -57,6 +58,7 @@ Covers:
 
 ### Task 4 - Functions
 Notebook: TASK_4.ipynb  
+
 By: Aniket Dhuke
 
 ###  A. User-defined Functions
@@ -103,7 +105,9 @@ By: Aniket Dhuke
 
 ### Task 5 - NumPy Library 
 Notebook: TASK_5.ipynb  
+
 By:  Aniket Dhuke
+
 Coveres:
 
 ### 1. Library Installation & Importing
